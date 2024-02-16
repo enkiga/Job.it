@@ -8,6 +8,22 @@
       "expo-router"
     ],
     "name": "Jobit",
-    "slug": "Jobit"
+    "slug": "Jobit",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "288818ea-2444-437d-90c4-e7bf578782b9"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/288818ea-2444-437d-90c4-e7bf578782b9"
+    },
+    "android": {},
+    "ios": {}
   }
 }
